@@ -29,7 +29,7 @@ type TimelineItem = {
 const profile = {
   name: 'Tangerine',
   handle: '@tangerinesalt',
-  title: 'Personal homepage for thoughtful web work.',
+  title: 'tangerine’s cool personal homepage',
   intro:
     'I build small, clear digital spaces for ideas, experiments, and useful tools. This site is designed to stay fast, editable, and ready to publish from GitHub to Vercel.',
   avatar: 'https://avatars.githubusercontent.com/u/150659913?v=4',
