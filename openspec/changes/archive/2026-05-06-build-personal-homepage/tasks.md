@@ -19,6 +19,6 @@
 
 ## 4. Publishing
 
-- [ ] 4.1 Create a GitHub repository and push the committed project.
+- [x] 4.1 Create a GitHub repository and push the committed project.
 - [x] 4.2 Deploy the project on Vercel.
 - [x] 4.3 Verify and report the public deployment URL.
